@@ -1,0 +1,1 @@
+docker run -v "$(pwd)/1.11/logs.txt/:/logs.txt" -p 8000:8000 b6a85b5179a8y

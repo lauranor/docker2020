@@ -1,0 +1,5 @@
+docker build backend-example-docker-master/
+docker run -p 8000:8000 83bee2131104
+
+docker build frontend-example-docker-master/
+docker run -p 5000:5000 00eaee93ec8e
